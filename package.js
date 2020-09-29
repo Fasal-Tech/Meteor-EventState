@@ -2,7 +2,7 @@ Package.describe({
   name: "shivangkar:eventstate",
   version: '0.0.5',
   summary: "A server and client event state package.",
-  git: "https://github.com/raix/Meteor-EventState.git"
+  git: "https://github.com/shivang007/Meteor-EventState.git"
 });
 
 Package.onUse(function (api) {
